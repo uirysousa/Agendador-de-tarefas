@@ -1,29 +1,14 @@
 {
   "tarefas": [
     {
-      "titulo": "tarefa 1",
-      "descricao": "dar aula",
+      "titulo": "fazer compras",
+      "descricao": "arroz, manga etc",
       "id": 1
     },
     {
-      "titulo": "tarefa 2",
-      "descricao": "intervalo",
+      "titulo": "Segunda",
+      "descricao": "ir malhar;\nfazer almoço;\nestudar\n",
       "id": 2
-    },
-    {
-      "titulo": "tarefa 3",
-      "descricao": "teste ",
-      "id": 3
-    },
-    {
-      "titulo": "teste 4",
-      "descricao": "teste",
-      "id": 4
-    },
-    {
-      "titulo": "tarefa 5",
-      "descricao": "teste5",
-      "id": 5
     }
   ]
 }
